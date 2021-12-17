@@ -1,0 +1,26 @@
+[{
+    "id": "0",
+    "name": "Chuks",
+    "price": "700",
+    "img": "/decorator.jpg"
+},
+{
+    "id": "1",
+    "name":"Chuks1",
+    "price": "600",
+    "img": "/decorators.jpg"
+},
+{   
+    "id":"2",
+    "name":"Chuks2",
+    "price":"500", 
+    "img":"/decs.jpg"
+},
+{
+    "id":"3",
+    "name":"Chuks3",
+    "price":"400",
+    "img":"/hairs.jfif"
+
+}
+]
